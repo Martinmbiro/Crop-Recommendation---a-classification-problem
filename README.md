@@ -23,8 +23,9 @@ meant to show that agriculture could leverage the power of Artificial Intelligen
 2. [`pandas`](https://pandas.pydata.org/docs/index.html) - An open-source data analysis and manipulation tool built on Python
 3. [`scikit-learn`](https://scikit-learn.org/stable/#) - A free open-source library that offers Machine Learning tools for the Python programming language
 4. [`matplotlib`](https://matplotlib.org/) - A comprehensive library for making static, animated, and interactive visualizations in Python
-5. [`seaborn`](https://seaborn.pydata.org/) -  A Python data visualization library based on [`matplotlib`](https://matplotlib.org/), that provides a high-level interface for drawing attractive and informative statistical graphics
-6. [`CatBoost`](https://catboost.ai/en/docs/) - An open-source Machine Learning algorithm that uses _gradient boosting_ on _decision trees_
+5. [`numpy`](https://numpy.org/) - The fundamental package for scientific computing with Python
+6. [`seaborn`](https://seaborn.pydata.org/) -  A Python data visualization library based on [`matplotlib`](https://matplotlib.org/), that provides a high-level interface for drawing attractive and informative statistical graphics
+7. [`CatBoost`](https://catboost.ai/en/docs/) - An open-source Machine Learning algorithm that uses _gradient boosting_ on _decision trees_
 
 ## Results 📈
 > So, how did the model classify unseen data into respective crop classes? On a scale of `0.0` to `1.0`,
